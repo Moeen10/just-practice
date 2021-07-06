@@ -129,20 +129,13 @@ span{
     color: black;
     border-radius: 25px;
     font-size: 25;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
 }
 
-.slogo{
-    width: 50%;
-    height: 70%; 
-    margin-top: 10px;
-    display: block;
-    border-radius: 100px;
     
-}
-.count-social{
-    display : flex;
-    align-items: center;
-}
+
 
 .footer{
     width: 100%;
